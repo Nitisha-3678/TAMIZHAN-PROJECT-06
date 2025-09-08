@@ -66,7 +66,7 @@ Secure channels (e.g., TLS)
 Python
 Cryptography (Fernet)
 Socket Programming
-Learned via #TamizhanSkills
+
 
 🚀 Open to Opportunities
 Currently exploring roles in cybersecurity, Python development, and secure software engineering. Let’s connect if you’re looking for someone passionate about building secure systems!
